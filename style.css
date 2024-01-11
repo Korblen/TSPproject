@@ -1,3 +1,7 @@
+body{
+    padding: 0;
+    margin:0;
+}
 .Jumbotron-hero{
     height: 600px;
     background-image: url("https://images.pexels.com/photos/1533729/pexels-photo-1533729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
@@ -5,4 +9,3 @@
     background-repeat: no-repeat;
     background-size: cover; 
 }
-
